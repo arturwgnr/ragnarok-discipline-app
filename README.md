@@ -1,6 +1,6 @@
 # 🛡️ Ragnarok Discipline App
 
-![Ragnarok Dashboard Preview](public/ragnarok-discipline-app-screenshot.png)
+![Ragnarok Dashboard Preview](ragnarok-discipline-app-screenshot.png)
 
 A personal productivity platform focused on self-mastery and consistency.  
 This app combines a simple To-Do list, journaling system, and a visual progress page — all in one place.  
